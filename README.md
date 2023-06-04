@@ -6,11 +6,13 @@ To compile and run C programs, ensure that you the following installed on your l
 C compiler (eg. clang, gcc, or cc) and a code edition.
 
 # Description
-1. Basics: This category contains programs that demonstrate the basic concepts of C programming, such as variables, data types, functions, and loops.
-Data Structures: This category contains programs that demonstrate the use of various data structures, such as arrays, 2. linked lists, and trees.
-Algorithms: This category contains programs that implement various algorithms, such as sorting, searching, and graph traversal.
-3. Games: This category contains programs that implement various games, such as tic-tac-toe, hangman, and pong.
-I hope that this repository will be a useful resource for anyone who is learning C programming.
+  1. Basics: This category contains programs that demonstrate the basic concepts of C programming, such as variables, data types, functions, and loops.
+  2. Data Structures: This category contains programs that demonstrate the use of various data structures, such as arrays, linked lists, and trees.
+
+ 3. Algorithms: This category contains programs that implement various algorithms, such as sorting, searching, and graph traversal.
+
+  4. Games: This category contains programs that implement various games, such as tic-tac-toe, hangman, and pong.
+  I hope that this repository will be a useful resource for anyone who is learning C programming.
 
 # Getting Started
 To get started, clone this repository to your local machine:
